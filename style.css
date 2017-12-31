@@ -1,0 +1,120 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: ayuthaya;
+}
+
+#generalWrapper {
+    width: 880px;
+    padding: 15px;
+    background-color: #dddfd4;
+}
+
+#header {
+    padding: 10px;
+    background-color: #3ab0ac;
+}
+#logo {
+    display: inline-block;
+    vertical-align: middle;
+    width: 40px;
+}
+
+#headerText {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+h1 {
+    display: inline-block;
+    vertical-align: middle;
+    font-weight: normal;
+    font-size: 24px;
+}
+
+#headerLinks {
+    display: inline;
+    vertical-align: middle;
+    margin-left: 120px;
+}
+
+#headerLinks a {
+    color: white;
+    margin-right: 10px;
+    font-size: 11px;
+    font-weight: normal;
+}
+
+#textWrapper {
+    margin: 15px 0px 5px 0px;
+    background-color: #fbe598;
+}
+
+#left {
+    width: 220px;
+}
+
+#right {
+    display: inline-block;
+    vertical-align: top;
+}
+
+#right .textBlock {
+    height: 152px;
+}
+
+.textBlock {
+    display: inline-block;
+    vertical-align: top;
+    box-sizing: border-box;
+    margin: 15px;
+    padding: 5px;
+    background-color: #153f43;
+}
+
+.textBlock h2 {
+    margin: 5px 0px 0px 5px;
+    color: #dadcd1;
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.textBlock h3 {
+    margin: 0px 0px 0px 5px;
+    color: #dadcd1;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.textBlock p {
+    margin: 15px 0px 15px 10px;
+    color: #dadcd1;
+    font-size: 12px;
+}
+
+.textBlock span {
+    color: #48c8ba;
+}
+
+.top {
+    width: 170px;
+}
+
+.middle {
+    width: 275px;
+}
+.bottom {
+    width: 590px;
+}
+
+#footer {
+    background-color: #3ab0ac;
+    padding: 30px;
+    font-size: 12px;
+}
+
+#footer p {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0px 0px 0px 200px;
+}
